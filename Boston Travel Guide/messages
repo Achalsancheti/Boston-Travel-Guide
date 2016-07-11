@@ -1,0 +1,22 @@
+Size.user.userName = Size should be minimum of 2 char
+ 
+typeMismatch.int={0} Value must be an integer
+typeMismatch.java.lang.Integer={0} must be an integer
+typeMismatch={0} is of invalid format
+ 
+Size.user.userName=UserName should be 3 to 15 character long
+Size.user.password=Password should be 5 to 16 character long
+Size.user.firstName=FirstName should be 2 to 12 character long
+Size.user.lastName=LastName should be 2 to 12 character long
+NotEmpty.user.email=Email is a required field
+NotNull.user.userName=UserName is required
+NotNull.user.password=Password is required
+NotNull.user.roleType=RoleType is required
+NotNull.user.firstName=FirstName is required
+NotNull.user.lastName=LastName is required
+NotNull.user.zipCode=ZipCode is required
+NotNull.user.gender=Gender is required
+ 
+Email=Email address is not valid
+NotNull=This is a required field
+NotEmpty=This is a required field

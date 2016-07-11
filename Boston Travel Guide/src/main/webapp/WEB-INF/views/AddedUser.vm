@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>User Created Successfully</title>
+        <style>
+body  {
+    background-image: url("http://paper-backgrounds.com/textureimages/2012/08/light-brown-wood-furniture-texture.jpg");
+	width="1900";
+	height="800";
+}
+</style>
+    </head>
+    <body>
+    
+        <div align="center">
+		<fieldset style="width: 700px; background-color: #99ccff;">
+		<img src="http://www.clker.com/cliparts/I/b/r/1/6/n/simple-green-check-button-hi.png"
+				alt="HTML tutorial" style="width: 100px; height: 100px;"><br>
+				<p align="center"><font size="8"><b>User With Username (${user.userName}) Registered Successfully</b></font><br></p>
+				<p align="center"><a href="contents.jsp">Sign in</a>&nbspto continue</p>
+		</fieldset>
+		</div>
+    </body>
+</html>
